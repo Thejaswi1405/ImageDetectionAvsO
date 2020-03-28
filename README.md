@@ -1,2 +1,2 @@
 # ImageDetectionAvsO
-Model train for detecting apples and oranges
+Model for detecting Apples and Oranges
